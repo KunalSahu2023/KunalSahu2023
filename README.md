@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kunal Sahu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Backend & DSA**
+- 🌱 I’m currently learning **Java Full Stack**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
