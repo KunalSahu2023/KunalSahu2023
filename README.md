@@ -15,7 +15,6 @@
 - 🚀 Passionate **Software Developer from India**
 - 💡 Strong in **Data Structures & Algorithms**
 - ☕ Currently mastering **Advanced Java & System Design**
-- 🧠 Solving problems on **LeetCode & Competitive Programming**
 - 🎯 Goal: Build scalable real-world systems
 
 ---
