@@ -4,7 +4,7 @@
 
 <h3 align="center">
   <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Developer;Java+%7C+DSA+%7C+System+Design;Competitive+Programmer;Building+Scalable+Applications" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Developer;Java+%7C+DSA+%7C+System+Design;Building+Scalable+Applications" />
   </a>
 </h3>
 
@@ -14,7 +14,7 @@
 
 - 🚀 Passionate **Software Developer from India**
 - 💡 Strong in **Data Structures & Algorithms**
-- ☕ Currently mastering **Advanced Java & System Design**
+- ☕ Currently learning **Advanced Java & System Design**
 - 🎯 Goal: Build scalable real-world systems
 
 ---
@@ -35,7 +35,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,c,js,react,html,css,tailwind,babel,git,github" />
+<img src="https://skillicons.dev/icons?i=java,c,js,react,html,css,tailwind,babel,git,github,springboot,hibernate, datajpa" />
 </p>
 
 ---
