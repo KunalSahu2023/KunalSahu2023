@@ -13,7 +13,6 @@
 ## 👨‍💻 About Me
 
 - 🚀 Passionate **Software Developer from India**
-- 💡 Strong in **Data Structures & Algorithms**
 - ☕ Currently learning **Advanced Java & System Design**
 - 🎯 Goal: Build scalable real-world systems
 
